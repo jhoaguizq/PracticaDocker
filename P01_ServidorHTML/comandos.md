@@ -10,3 +10,5 @@ docker run alpineserver
 sudo chmod -R 664 Escritorio/Practicas_docker/P01_ServidorHTML/html
 ### FASE 4 Copiar archvios server:
 sudo docker cp ./html/index.html alpineserver:/usr/share/nginx/html
+
+# uwu
